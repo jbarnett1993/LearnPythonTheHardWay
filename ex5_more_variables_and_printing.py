@@ -18,6 +18,7 @@ print(f"His teeth are usually {my_teeth} unless he's had coffee in with case the
 
 
 #This line is tricky, try get it exactly right
+#adding line to test gitlens 
 
 total = my_age + my_height + my_weight
 
