@@ -1,8 +1,8 @@
-tabby_cat = "\I'm tabbed"
+tabby_cat = "\tI'm tabbed"
 persian_cat = "I'm split \non a new line"
 backslash_cat = "I'm \\ a \\ cat" 
 
-fat_cat = """
+fat_cat = """testing this text
 I'll do a list:
 \t* Cat food
 \t* fishies 
